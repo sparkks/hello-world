@@ -2,3 +2,4 @@
 My first repository
 And I like summer!
 uhuh
+Cool idea!
